@@ -1,0 +1,101 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:51:16 on Nov 13,2025
+# vlog -reportprogress 300 fifo_using_queue.sv 
+# -- Compiling module fifo
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 16:51:16 on Nov 13,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 16:51:16 on Nov 13,2025
+# Loading sv_std.std
+# Loading work.top
+# Loading work.fifo
+# -------> FIFO WRITES <---------
+# '{15}
+# '{25, 15}
+# '{25, 25, 15}
+# '{41, 25, 25, 15}
+# '{37, 41, 25, 25, 15}
+# '{25, 37, 41, 25, 25, 15}
+# '{37, 25, 37, 41, 25, 25, 15}
+# '{49, 37, 25, 37, 41, 25, 25, 15}
+# '{26, 49, 37, 25, 37, 41, 25, 25, 15}
+# '{25, 26, 49, 37, 25, 37, 41, 25, 25, 15}
+# '{21, 25, 26, 49, 37, 25, 37, 41, 25, 25, 15}
+# '{47, 21, 25, 26, 49, 37, 25, 37, 41, 25, 25, 15}
+# '{18, 47, 21, 25, 26, 49, 37, 25, 37, 41, 25, 25, 15}
+# '{33, 18, 47, 21, 25, 26, 49, 37, 25, 37, 41, 25, 25, 15}
+# '{48, 33, 18, 47, 21, 25, 26, 49, 37, 25, 37, 41, 25, 25, 15}
+# -------> FIFO READS <---------
+# 	--> 15
+# 	--> 25
+# 	--> 25
+# 	--> 41
+# 	--> 37
+# 	--> 25
+# 	--> 37
+# 	--> 49
+# 	--> 26
+# 	--> 25
+# 	--> 21
+# 	--> 47
+# 	--> 18
+# 	--> 33
+# 	--> 48
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:54:35 on Nov 13,2025
+# vlog -reportprogress 300 stack_usg_queue.sv 
+# -- Compiling module stack
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 16:54:35 on Nov 13,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# End time: 16:54:36 on Nov 13,2025, Elapsed time: 0:03:20
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 16:54:36 on Nov 13,2025
+# Loading sv_std.std
+# Loading work.top
+# Loading work.stack
+# -------> STACK WRITES <---------
+# '{15}
+# '{25, 15}
+# '{25, 25, 15}
+# '{41, 25, 25, 15}
+# '{37, 41, 25, 25, 15}
+# '{25, 37, 41, 25, 25, 15}
+# '{37, 25, 37, 41, 25, 25, 15}
+# '{49, 37, 25, 37, 41, 25, 25, 15}
+# '{26, 49, 37, 25, 37, 41, 25, 25, 15}
+# '{25, 26, 49, 37, 25, 37, 41, 25, 25, 15}
+# '{21, 25, 26, 49, 37, 25, 37, 41, 25, 25, 15}
+# '{47, 21, 25, 26, 49, 37, 25, 37, 41, 25, 25, 15}
+# '{18, 47, 21, 25, 26, 49, 37, 25, 37, 41, 25, 25, 15}
+# '{33, 18, 47, 21, 25, 26, 49, 37, 25, 37, 41, 25, 25, 15}
+# '{48, 33, 18, 47, 21, 25, 26, 49, 37, 25, 37, 41, 25, 25, 15}
+# -------> STACK READS <---------
+# 	--> 48
+# 	--> 33
+# 	--> 18
+# 	--> 47
+# 	--> 21
+# 	--> 25
+# 	--> 26
+# 	--> 49
+# 	--> 37
+# 	--> 25
+# 	--> 37
+# 	--> 41
+# 	--> 25
+# 	--> 25
+# 	--> 15
+# End time: 16:59:19 on Nov 13,2025, Elapsed time: 0:04:43
+# Errors: 0, Warnings: 0

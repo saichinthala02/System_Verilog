@@ -1,0 +1,79 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/System_Verilog/Arrays/QUEUES
+vfifo
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1763032876
+!i10b 1
+!s100 hb1icEk4UhVe2aSW199H22
+Ii6g^zY4^^4e36J8mz<HeY3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 fifo_using_queue_sv_unit
+S1
+R0
+w1763032818
+8fifo_using_queue.sv
+Ffifo_using_queue.sv
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1763032876.000000
+!s107 fifo_using_queue.sv|
+!s90 -reportprogress|300|fifo_using_queue.sv|
+!i113 1
+Z4 tCvgOpt 0
+vstack
+R1
+Z5 !s110 1763033075
+!i10b 1
+!s100 R7_d>NPe24i_Zb74Q6Wn41
+IBNKShd^MZD@2jafSmT3G32
+R2
+Z6 !s105 stack_usg_queue_sv_unit
+S1
+R0
+Z7 w1763033044
+Z8 8stack_usg_queue.sv
+Z9 Fstack_usg_queue.sv
+L0 2
+R3
+r1
+!s85 0
+31
+Z10 !s108 1763033075.000000
+Z11 !s107 stack_usg_queue.sv|
+Z12 !s90 -reportprogress|300|stack_usg_queue.sv|
+!i113 1
+R4
+vtop
+R1
+R5
+!i10b 1
+!s100 emFgg3?oZPoZm;XXUm<O`1
+IUPB:hjDh@zRU;fJV]jL0j1
+R2
+R6
+S1
+R0
+R7
+R8
+R9
+L0 13
+R3
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R4

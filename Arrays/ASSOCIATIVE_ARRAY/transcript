@@ -1,0 +1,31 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:00:24 on Nov 13,2025
+# vlog -reportprogress 300 ar_methods.sv 
+# -- Compiling module top
+# ** Warning: ar_methods.sv(17): (vlog-2240) Treating stand-alone use of function 'first' as an implicit VOID cast.
+# ** Warning: ar_methods.sv(20): (vlog-2240) Treating stand-alone use of function 'last' as an implicit VOID cast.
+# ** Warning: ar_methods.sv(24): (vlog-2240) Treating stand-alone use of function 'prev' as an implicit VOID cast.
+# ** Warning: ar_methods.sv(28): (vlog-2240) Treating stand-alone use of function 'next' as an implicit VOID cast.
+# 
+# Top level modules:
+# 	top
+# End time: 17:00:25 on Nov 13,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 4
+# vsim top 
+# Start time: 17:00:25 on Nov 13,2025
+# Loading sv_std.std
+# Loading work.top
+# Associative Array Data:- '{85:412, 119:414, 124:546, 154:562, 159:386, 164:518, 190:169, 204:427, 229:131, 287:508 }
+# The number of elements in Array are :- 10
+# The elements exists in Array or not :- 0
+# The First element  in Array is :- intAS[85]=412
+# The Last element  in Array is :- intAS[287]=508
+# The element before given index in Array are :- intAS[119]=414
+# The element after given index in Array are :- intAS[154]=562
+# The AS after deleting 190 index :- {85:412} {119:414} {124:546} {154:562} {159:386} {164:518} {204:427} {229:131} {287:508} 
+# The AS after deleting All :- 
+# End time: 17:02:36 on Nov 13,2025, Elapsed time: 0:02:11
+# Errors: 0, Warnings: 0
