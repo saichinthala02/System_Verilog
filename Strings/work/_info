@@ -1,0 +1,148 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/saich/OneDrive/Desktop/System_Verilog/Strings
+vtop
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1761714081
+!i10b 1
+!s100 Sb:34?S?kgL1]3ASBJJg;3
+IdMQdY[Kj82glm1z^H@6_i0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 temperature_sv_unit
+S1
+R0
+w1761714078
+8temperature.sv
+Ftemperature.sv
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1761714081.000000
+!s107 temperature.sv|
+!s90 -reportprogress|300|temperature.sv|
+!i113 1
+Z4 tCvgOpt 0
+vtop1
+R1
+!s110 1761650283
+!i10b 1
+!s100 Ib;k?U;ffNin=X950d[O^0
+Iz]I:@i7LC>1mTdfF>GNoQ2
+R2
+!s105 reverse_str_sv_unit
+S1
+R0
+w1761650275
+8reverse_str.sv
+Freverse_str.sv
+L0 21
+R3
+r1
+!s85 0
+31
+!s108 1761650283.000000
+!s107 reverse_str.sv|
+!s90 -reportprogress|300|reverse_str.sv|
+!i113 1
+R4
+vtop2
+R1
+Z5 !s110 1763033972
+!i10b 1
+!s100 VJ2P;LaHc;Y0NZ>:j[kAF1
+IXgomRN[KI[DcE1A73GdzP3
+R2
+Z6 !s105 p_sv_unit
+S1
+R0
+Z7 w1762255493
+Z8 8p.sv
+Z9 Fp.sv
+L0 16
+R3
+r1
+!s85 0
+31
+Z10 !s108 1763033972.000000
+Z11 !s107 p.sv|
+Z12 !s90 -reportprogress|300|p.sv|
+!i113 1
+R4
+vtop3
+R1
+R5
+!i10b 1
+!s100 PcnE4E>oL>DlXee@=iF^`1
+IcSR8C=93G6HQaWJ5B0bdH0
+R2
+R6
+S1
+R0
+R7
+R8
+R9
+L0 40
+R3
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R4
+vtop4
+R1
+R5
+!i10b 1
+!s100 @M?IO:2z3TU^R8E5mhDKA2
+IG5NKOML2W?baGZDL3EHU;0
+R2
+R6
+S1
+R0
+R7
+R8
+R9
+L0 63
+R3
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R4
+vtopl
+R1
+R5
+!i10b 1
+!s100 jZ1MFTRTMcO]8XleR7W8^0
+I]cgF0b867X=l7@VhifGAf2
+R2
+R6
+S1
+R0
+R7
+R8
+R9
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R4

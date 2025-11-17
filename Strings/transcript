@@ -1,0 +1,28 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do run.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 17:09:32 on Nov 13,2025
+# vlog -reportprogress 300 p.sv 
+# -- Compiling module topl
+# ** Warning: p.sv(10): (vlog-2240) Treating stand-alone use of function 'add' as an implicit VOID cast.
+# -- Compiling module top2
+# -- Compiling module top3
+# -- Compiling module top4
+# 
+# Top level modules:
+# 	topl
+# 	top2
+# 	top3
+# 	top4
+# End time: 17:09:32 on Nov 13,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# vsim top4 
+# Start time: 17:09:32 on Nov 13,2025
+# Loading sv_std.std
+# Loading work.top4
+# a:- 6
+# b:- 11010 || b:- 26
+# b:- 00110 || b:- 6
+# End time: 17:13:47 on Nov 13,2025, Elapsed time: 0:04:15
+# Errors: 0, Warnings: 0
