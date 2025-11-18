@@ -1,0 +1,38 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+do run.do
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 16:51:03 on Nov 11,2025
+# vlog -reportprogress 300 file_read.sv 
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 16:51:03 on Nov 11,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim top 
+# Start time: 16:51:03 on Nov 11,2025
+# Loading sv_std.std
+# Loading work.top
+# 13
+# 11
+# 3
+# 7
+# 12
+# 19
+# 9
+# 16
+# 14
+# 5
+# 2
+# 10
+# 17
+# 18
+# 1
+# 8
+# 20
+# 15
+# 6
+# 4
+# The Sum of all values is 210
+# End time: 16:52:21 on Nov 11,2025, Elapsed time: 0:01:18
+# Errors: 0, Warnings: 0
