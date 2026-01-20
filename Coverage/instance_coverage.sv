@@ -1,6 +1,5 @@
 //--> Conisider a Master is connected with 3 slave with APB interface.
 //--> Functional Coverage using instance coverage, consider only psel.
-
 class apb_tx;
 	rand bit[3:0]psel;
 	function void print(input string str);
@@ -12,6 +11,7 @@ class apb_tx;
 	}
 endclass
 
+//creating object for apb_tx globally
 apb_tx tx = new();
 
 covergroup apb_cg;
@@ -94,3 +94,4 @@ module top;
 		c3.run();
 	end
 endmodule
+
